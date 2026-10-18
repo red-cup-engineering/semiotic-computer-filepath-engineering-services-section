@@ -3,6 +3,11 @@
   "version": "0.1.3",
   "type": "module",
   "description": "Owns semiotic-computer filepath admission, normalization, identity, and readout for Proof-Path Addressing.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/computer-filepath-engineering-services-section.git",
+    "directory": "services/semiotic-computer-filepath-services-section"
+  },
   "exports": {
     ".": "./lib/identity.mjs",
     "./identity": "./lib/identity.mjs"
